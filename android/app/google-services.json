@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578228483016",
+    "project_id": "airplane-8d976",
+    "storage_bucket": "airplane-8d976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578228483016:android:d8992cc90707d79dd506fd",
+        "android_client_info": {
+          "package_name": "com.kukilabs.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578228483016-oqsjqo5p7jemnothjf54v3pvu59acreu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVIvYaiNVnMBdc7G7LeZF8KVzer1eQ7h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578228483016-oqsjqo5p7jemnothjf54v3pvu59acreu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
